@@ -1,7 +1,4 @@
-msx-fat-breakout-board
-======================
-
-MSX breakout board: slim version
+MSX breakout board: fat version
 
 Twiter: https://twitter.com/msxarm
 

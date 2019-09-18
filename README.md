@@ -1,7 +1,5 @@
 MSX breakout board: fat version
 
-Twiter: https://twitter.com/msxarm
-
 http://www.oshpark.com/profiles/albatroz
 
 <p align="center">
